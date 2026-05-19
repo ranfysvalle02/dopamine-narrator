@@ -366,3 +366,30 @@ The rest is engineering.
 [^damasio]: Damasio, A. (1994). *Descartes' Error: Emotion, Reason, and the Human Brain*. Putnam Publishing.
 
 [^bandura]: Bandura, A. (1997). *Self-Efficacy: The Exercise of Control*. W. H. Freeman.
+
+------
+
+
+# OUTPUT of `demo.py`
+
+```
+DOPAMINE NARRATOR  Interest-Based Activation
+
+Raw task: Clean the kitchen
+Shame override: You're not failing. The task structure has zero fuel.
+
+Reframing with salience vectors:
+
+  Interest   That one drawer — the junk drawer — what's actually in there? Archaeology mode.
+  Novelty    Put on a podcast you've been saving. The kitchen is just the excuse to listen.
+  Challenge  Timer: 10 minutes. Whatever isn't done doesn't exist. Speed run.
+  Urgency    Company coming tomorrow. This is the last easy win before it gets weird.
+
+╭─────────────────────────────────────────────────────────────────────────────────────── Flight Plan ───────────────────────────────────────────────────────────────────────────────────────╮
+│ Entry rule: Don't face the macro-mountain.                                                                                                                                                │
+│ Spend 180 seconds initializing the Interest layer only.                                                                                                                                   │
+│ Don't work to finish. Work to pass the gate.                                                                                                                                              │
+╰───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+Turn the key. Go.
+
+```
