@@ -1,10 +1,10 @@
 # dopamine-narrator
 
+![](dopamine-img.png)
+
 ---
 
 # The Dopamine Narrator
-
-![](dopamine-img.png)
 
 ### The Dopamine Narrator: How ADHD Brains Run on Story — And What Happens When the Story Runs Out
 
